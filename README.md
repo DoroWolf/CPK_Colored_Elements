@@ -13,4 +13,4 @@ This resource pack recolors all elements with the CPK colored scheme.
 For Minecraft Bedrock Edition 1.14.0 and above.
 
 ## What is CPK coloring?
-- [Wikipedia](https://en.wikipedia.org/wiki/CPK_Coloring)
+- [Wikipedia](https://en.wikipedia.org/wiki/CPK_coloring)
