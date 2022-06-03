@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Elements colored with CPK coloring",
+    "name": "CPK_color_elements",
+    "uuid": "a2fce15f-8ee3-43c4-85fa-1ad087774878",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "description": "Elements colored with CPK coloring",
+      "type": "resources",
+      "uuid": "3bc7bbd2-0f28-4432-aabf-54a710277947",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": [
+    "chemistry"
+  ]
+}
