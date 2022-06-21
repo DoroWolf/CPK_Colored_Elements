@@ -1,10 +1,10 @@
-# CPK配色元素资源包
-这个资源包将所有的元素以CPK配色方案进行了重新上色。
+# CPK配色元素資源包
+这个資源包將所有的元素以CPK配色方案進行了重新上色。
 
-适用于基岩版1.14.0以上。
+適用於基岩版 1.14.0 以上。
 
-## 什么是CPK配色？
-- [维基百科](https://zh.wikipedia.org/wiki/CPK配色)
+## 什麼是CPK配色？
+- [維基百科](https://zh.wikipedia.org/wiki/CPK配色)
 
 
 # CPK Colored Elements Resource Pack
