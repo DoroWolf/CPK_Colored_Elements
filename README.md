@@ -10,8 +10,6 @@ This resource pack recolors all elements with the [CPK colored](https://en.wikip
 
 For Minecraft Bedrock Edition 1.14.0 and above.
 
-- [MCBBS連結](https://www.mcbbs.net/thread-1346345-1-1.html)
-
 # 預覽圖
 ![Image](https://user-images.githubusercontent.com/61273857/190842455-834f75cf-81d7-4e47-8c80-28de1061e0a0.png)
 
