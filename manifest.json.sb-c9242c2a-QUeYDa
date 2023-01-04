@@ -3,16 +3,16 @@
   "header": {
     "description": "Elements colored with CPK coloring",
     "name": "CPK_color_elements",
-    "uuid": "efefd501-dc97-435f-84bb-c596b53e92c2",
-    "version": [1, 1, 0],
+    "uuid": "a2fce15f-8ee3-43c4-85fa-1ad087774878",
+    "version": [1, 0, 0],
     "min_engine_version": [1, 14, 0]
   },
   "modules": [
     {
       "description": "Elements colored with CPK coloring",
       "type": "resources",
-      "uuid": "8433ecc4-c5b0-4698-8844-dc25a334d763",
-      "version": [1, 1, 0]
+      "uuid": "3bc7bbd2-0f28-4432-aabf-54a710277947",
+      "version": [1, 0, 0]
     }
   ],
   "capabilities": [
