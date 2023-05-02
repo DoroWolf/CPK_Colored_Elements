@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/static/v1?label=License&message=CC%20BY-NC-SA%204.0&color=db2331&style=flat-square&logo=creative%20commons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License](https://img.shields.io/static/v1?label=License&message=CC%20BY-SA%204.0&color=db2331&style=flat-square&logo=creative%20commons)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Minecraft ver](https://img.shields.io/static/v1?label=Minecraft%20Bedrock%20version&message=1.14.0+%2B&color=db2331&style=flat-square&logo=)](https://minecraft.net)
 
 # CPK配色元素資源包
